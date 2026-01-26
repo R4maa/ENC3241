@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Your Name Here
+# Amar Razzaq
 
-[Paste your professional paragraph from Week 2 here]
+Amar Razzaq is a computer science student and aspiring software engineer. He has hands-on experience building full-stack applications in team-based projects through various hackathons and coursework. Primarily working on web-based applications centered around promoting civil and social change, he has proficiency in React, CSS, Next.js, APIs and working under real deadlines. Through his work, he is comfortable using common development platforms and tools such as Git, JavaScript, Figma, and Firebase. He continues expanding his skillset through independent projects and ongoing classwork.
 
 ## Professional Writing Samples/Projects
 
